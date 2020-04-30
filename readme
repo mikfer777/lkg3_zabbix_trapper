@@ -1,2 +1,5 @@
 LKG3 Zabbix Trapper
 https://github.com/hengyunabc/zabbix-sender
+
+Doc Zabbix 4.0:
+https://www.zabbix.com/documentation/4.0/manual/config/items/itemtypes/trapper
